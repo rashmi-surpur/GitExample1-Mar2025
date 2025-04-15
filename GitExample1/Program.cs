@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Good Luck");
             Console.WriteLine("Have a nice day");
+            Console.WriteLine("Code modified in github repo") ;
             Console.ReadLine();
         }
     }
